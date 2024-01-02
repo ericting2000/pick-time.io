@@ -1,3 +1,5 @@
+This is the forked repository from my friend's github account.
+In this project, I'm in chage of all the UI / UX design and contributed to some part of the code.
 
 <div id="top"></div>
 
